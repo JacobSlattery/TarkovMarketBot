@@ -1,0 +1,23 @@
+{
+    "Settings": {
+        "default_resolution": "1440p",
+        "default_sale_zone": {
+            "sell_width": 8,
+            "sell_height": 6,
+            "starting_row_index": 0,
+            "starting_column_index": 0
+        }
+    },
+    "Data": {
+        "stash_item_size_1440p": 85,
+        "stash_item_size_1080p": 68,
+        "sale_item_size_1440p": 85,
+        "sale_item_size_1080p":60
+    },
+    "Menu": {
+        "buy_attempts": 2,
+        "buy_loops": 2,
+        "repeat_count": 10,
+        "loop_wait_time": 200
+    }
+}
